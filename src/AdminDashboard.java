@@ -10,7 +10,7 @@ public class AdminDashboard extends JFrame implements ActionListener {
     private JButton viewComplaintsButton; // Button to view all complaints
     private JButton updateStatusButton;   // Button to update complaint status
     private JButton addAdminButton;       // Button to add a new admin
-    private JButton logoutButton;         // Button to log out
+    private JButton logoutButton;         // Button to log-out
 
     /**
      * Constructor for AdminDashboard.

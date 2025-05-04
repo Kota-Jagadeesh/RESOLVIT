@@ -132,11 +132,11 @@ If you want to improve ResolveIt, feel free to:
 
 ## License
 
-This project is open-source and available for educational purposes. You can modify and use it as needed, but please give credit to the original developers.
+This project is open-source and available for educational purposes. You can modify and use it as needed, but please give credit to us.
 
 ## Contact
 
-For questions or support, reach out to [Your Contact Info, if applicable]. We hope ResolveIt helps make complaint management easier for your institution!
+For questions or support, reach out to [JAGADEESH]. We hope ResolveIt helps make complaint management easier for your institution!
 
 ---
 
