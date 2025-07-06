@@ -130,14 +130,4 @@ If you want to improve ResolveIt, feel free to:
 - Suggest ideas for future updates.
 - Submit pull requests if the project is hosted on a platform like GitHub.
 
-## License
-
-This project is open-source and available for educational purposes. You can modify and use it as needed, but please give credit to the original developers.
-
-## Contact
-
-For questions or support, reach out to [Your Contact Info, if applicable]. We hope ResolveIt helps make complaint management easier for your institution!
-
----
-
 *Built with ❤️ for simple and effective complaint management.*
